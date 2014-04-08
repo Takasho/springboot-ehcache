@@ -1,5 +1,5 @@
-Springboot Hello World Example
+Springboot Ehcache Example
 ==============================
 Overview
 --------
-A simple hello world application with Maven integration to get people moving with Springboot and tradditional war file deployment rather than the executable JAR files which litter the T'Interwebs.
+A simple REST based SpringBoot application with Maven integration and Ehcache to get people moving with Springboot and tradditional war file deployment.
